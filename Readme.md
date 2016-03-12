@@ -27,12 +27,13 @@
 ### What we value 
   
   1. We aim to be different from traditional outsourcing companies, so don't be surprised when some of your past experiences with many other outsourcing companies don't apply here. _Innovation_ is why we exists, and we drive innovation by encouraging you to see problems with your daily activities at KodeQ and try to come up with solutions.
-
+  
   2. Agile is the key to solving problems successfully. With anything you do, we encourage you to think _agile_ and think _lean_. That means when attacking a problem, you should start with a small solution, then create a schedule to revisit and grow that very solution over time.
-  ![Lean Problem Solving](https://doc-0s-74-docs.googleusercontent.com/docs/securesc/eciv95nmc7k4htb4rlbud4jkvfsthdh0/v7od17bm4msc2f1o9cs69e99l3mi8dra/1457748000000/11568073847062641075/00731858358436096487/0B5DRixqtgf6pcThuZHkyeHlvWk0?nonce=oum8tmqp33904&user=00731858358436096487&hash=puridr1tbtj2gp3meomfqqn1uql4qhsm)
-
+  ![Lean Problem Solving](https://cloud.githubusercontent.com/assets/2142140/13720746/3ef67a4c-e843-11e5-87c5-b0a173eda334.jpg)
+ 
   3. _Leadership_. All organizations want leadership. This is the very element that not play key roles in faciliating business expansion, but, in fact, a value proposition in our consultancy service. Top software firms not only implement working software, but also lead the client teams to the right technology direction and strategy.
 
+ 
 ### Becoming successful at KodeQ
   
 
