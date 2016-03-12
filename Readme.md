@@ -54,7 +54,7 @@
   8. Permanently improving organizational effectiveness.
 
 
-  In order to solve our current organizational problems and move up to the next levels, we need your collaboration on the following activites:
+In order to solve our current organizational problems and move up to the next levels, we need your collaboration on the following activites:
 
   * Open up to your team and client teams. Reach out and make lots of friends. Never undermine the power of _networking_. Coming from many different industries, the client teams usually have a lot of experiences and knowledge spanning a vast array of subjects, and amazingly they are always open to share these experiences. You'll find yourself learning a lot from these extraordinary professionals.
   * Be a team player. Help your team produce results as a team. Don't be a lonely star in the lonely sky, but stand up for and mentor less-experienced team members. Lead them by your persuasion and making logical arguments. Brainstorm and implement practices and processes to solve problems in human management and productivity. Following this guide, you will help your team members reach successes, in which you will find your own success as a leader.
