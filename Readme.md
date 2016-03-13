@@ -1,48 +1,47 @@
 
-# The KodeQ Employee Handbook
+# The KodeQ Dev's Handbook
 
 ## About KodeQ
 
 ### Our Mission
-  KodeQ's mission is to connect top front-end engineers globally with top US companies, deliver top consultancy and development service, and provide these engineers with a world class environment to grow and innovate. Our current recruitment and development office is in Saigon, Vietnam.
+KodeQ's mission is to connect top front-end engineers globally with top US companies, to deliver top consultancy and development service, and to provide these engineers with a world class environment to grow and innovate. 
 
 ### How we started
-  Started in 2012 after recognizing the issues of communication, culture, and timezone.
+Started in 2012 after recognizing the issues of communication, culture, and timezone in today's offshore software development.
 
 ### What's next for us
-  Focus on increasing the communication quality, make current clients happier, and acquire more clients.
+Focus on what we do best and do it better by taking on more responsibility for the current clients, increasing clients' dependence, acquiring more clients, and reaching out to more top-rank developers.
 
-  In order to expand our business while driving more innovation, we're aiming to run more in-house software products in the future.
+We're also looking into expanding our business while driving more innovation by inventing and running in-house software products in the future.
 
 
 ## Your day 1 at KodeQ
 
 ### Our Products
   
-  All companies sell some form of products including service companies like KodeQ. So what are we _building_ and _selling_? what are KodeQ's products?
+All companies sell some form of products including service companies like KodeQ. So what are we _building_ and _selling_? what are KodeQ's products?
 
   1. As a software development company, the most visible, tangible product that we deliver to our customers is _software code_. We always strive for quality, beautiful code that's non-buggy, well-structured, and adhering to requirements.
-  2. However, as most devs don't realize, in order to develop good software as mentioned above, we must develop an internal set of practices and processes that faciliates first-class communication and healthy professional relationship with the client's team. This _set of practices and processes_ is our most important product and more often than not, this product is unrecognized by individuals coming from other outsourcing companies, so it is important for you to know it on your day 1 as you'll be joining us to build this product.
+  2. However, as most devs don't realize, in order to develop good software as mentioned above, we must develop an internal set of practices and processes that faciliates first-class communication and healthy professional relationships with the client teams. This _set of practices and processes_ is our most important product and more often than not, this product is unrecognized by individuals coming from other outsourcing companies, so it is important for you to know it on your day 1 as you'll be joining us to build this product.
 
 ### What we value 
   
   1. We aim to be different from traditional outsourcing companies, so don't be surprised when some of your past experiences with many other outsourcing companies don't apply here. _Innovation_ is why we exists, and we drive innovation by encouraging you to see problems with your daily activities at KodeQ and try to come up with solutions.
   
   2. Agile is the key to solving problems successfully. With anything you do, we encourage you to think _agile_ and think _lean_. That means when attacking a problem, you should start with a small solution, then create a schedule to revisit and grow that very solution over time.
-  ![Lean Problem Solving](https://cloud.githubusercontent.com/assets/2142140/13720746/3ef67a4c-e843-11e5-87c5-b0a173eda334.jpg)
  
-  3. _Leadership_. All organizations want leadership. This is the very element that not play key roles in faciliating business expansion, but, in fact, a value proposition in our consultancy service. Top software firms not only implement working software, but also lead the client teams to the right technology direction and strategy.
+  3. _Leadership_. All organizations want leadership. This element that not only plays key roles in faciliating business expansion, but is in fact a value proposition of our consultancy service. Top software firms not only implement working software, but also lead the client teams to the right technology direction and strategy.
 
  
-### Becoming successful at KodeQ
+### Becoming Successful at KodeQ
   
 
-  > “There is only one boss, and whether a person shines shoes for a living or heads up the biggest corporation in the world, the boss remains the same. It is the customer! The customer is the person who pays everyone’s salary and who decides whether a business is going to succeed or fail. In fact, the customer can fire everybody in the company from the chairman (CEO) on down, and he can do it simply by spending his money somewhere else. Literally everything we do, every concept perceived, every technology developed and associate employed, is directed with this one objective clearly in mind – pleasing the customer.” 
-  > - _Sam M. Walton, CEO Wal-Mart_
+> “There is only one boss, and whether a person shines shoes for a living or heads up the biggest corporation in the world, the boss remains the same. It is the customer! The customer is the person who pays everyone’s salary and who decides whether a business is going to succeed or fail. In fact, the customer can fire everybody in the company from the chairman (CEO) on down, and he can do it simply by spending his money somewhere else. Literally everything we do, every concept perceived, every technology developed and associate employed, is directed with this one objective clearly in mind – pleasing the customer.” 
+  > * _Sam M. Walton, CEO Wal-Mart_
 
-  Although we're not a fully grown company yet, we strive to bring KodeQ's capability to the same level as the world's leading consultancy firms: Deloitte, McKinsey, BCG... Our only boss is always the customer and our goal is to provide the customer with top consultancy service. 
+Although we're not a fully grown company yet, we strive to bring KodeQ's capability to the same level as the world's leading consultancy firms: Deloitte, McKinsey, BCG... Our only boss is always the customer and our goal is to provide the customer with top consultancy service. 
 
-  Below are the 8 levels of consultancy mastery as outlined by the Harvard Business Review with 8 being the highest level. We're currently at number 2, and our next milestone is to become 3, 4, and 5.
+Below are the 8 levels of consultancy mastery as outlined by the Harvard Business Review with 8 being the highest level. We're currently at number 2, and our next milestone is to become 3, 4, and 5.
 
   1. Providing information to a client.
   2. Solving a client’s problems.
@@ -62,53 +61,45 @@ In order to solve our current organizational problems and move up to the next le
   
 
 ### Now, for kicking it started
-  * Feel free to go around and introduce yourself to your US team.
-  * Read all necessary documentation.
-  * Create a PR to update any documentation if it seems out-of-date (icluding this handbook).
+  * Legal work
+    - Get with our Operations Manager for the followings:
+      + Documents to sign
+      + Documents to submit
+  * Getting familiar with the work and the team:
+    - Feel free to go around and introduce yourself to your US team.
+    - Read all necessary documentation.
+    - Create a PR to update any documentation if it seems out-of-date (icluding this handbook).
 
 ## Our Policies
-  * Policies:
-  * Salary
+  * Compensation
+    - As we strive for transparency and fairness, your base compensation is paid on an hourly basis. You'll receive the exact payment for the amount of work that you contribute. The budget normally set aside for 13th month salary, paid vacation, or overtime is already included in your hourly compensation.
+    - Your compensation is processed at the end of each month and you'll receive a detailed breakdown of your compensation every payment.
+  * Insurance
+    - We offer health insurance to all employees. You may get with our Operations Manager for more details on how to utilize your insurance.
   * Bonus
+    - To incentivize productivity and reward top-performance employees, we offer annual bonus during the Lunar New Year. The amount of bonus is calucated based on your individual performance and the company's performance of the previous year.
   * Vacation
-  * Benefit
-  * Remote working: Maximum time per week each person owns to work from home? if it exceeds?
-  * Leaving
-    * Inform in advance: how many days? Contact with whom?
-    * Plan to exchange job: who will handle the rest?
-    * Termination: nghỉ việc trước thời hạn kết thúc hợp đồng
-    * Payment
-    * Anything to return to the company?
-  * Performance Review
-    - ?
-  * Reimbursement: which kind of reimbursement? How to be reimbursed?
-  * Absence: Maximum days do each person have to be off? (tối đa mỗi người đc nghỉ phép bao nhiêu ngày?) inform before how many days? Back time? Anyone can handle the work? How to contact during that time?
-    + If they run out of time-off days and they want to be off, the salary will be paid or not? (for days they not work) (Nếu anh nghỉ quá số ngày quy định và vẫn muốn nghỉ tiếp, những ngày đó có được trả lương ko?)
-    + Ngoài số ngày nghỉ phép quy định, và ngày nghỉ chung của toàn công ty, 1 người được nghỉ THÊM tối đa bao nhiêu ngày? Nghỉ quá số ngày quy định đó thì có hay ko được trả lương? Hay có thì trả bao nhiêu?
-  * Compensation: payday
+    - We don't limit your vacation time. However, we ask you to responsibly limit your own vacation time in a way that does not affect your own performance. We recommend that 14 days of vacation per year is best for individual productivity.
+    - Please let your team and your management team know 30 days before your vacation takes place.
+  * Reimbursement
+    - Let our Operations Manager know before spendinging in any product or service on KodeQ's behalf. We will reimburse you after you have made your payment.
+  * Remote working
+    - We don't have a strict policy on remote working. The responsibility falls on you to manage your work hour to produce the best results for your team. From our experience, we recommend you take a maximum of 2 days of remote work each week.
+    - If your team's productivity falls due to your attendance, this will reflect in the performance review and may affect your compensation and employment.
+  + Attendance tracking:
+    * We don't track your office attendance. However, we do ask you to provide us with a detailed timesheet of your activities per day to submit to our clients and save these data for performance evaluation.
+  + Work hour
+    * You'll be working for 40 hours per week. You may ask the management team for if you'd like to decrease or increase your hours on a particular week, during which your compensation will be calculated based on your hourly rate.
+    * We do not have any strict policy on time of attendance. However, we do ask you to agree with your team the number of hours that you work during the _day_ and during the _night_ in order to collaborate effectively with both the VN team and the US team.
   * Dev Machine:
-    - ?
-
-## COMPANY PROCEDURES
-  * Welcome:
-    * On-boarding, gift, party (if any),
-    * Any tangible items needed to be submitted and registered by staff before working?
-    * Company items need to receive?
-  * Workplace:
-    * Dress code
-    * Working time (daily start and begin)
-    * Working hours per week (Part-time and full-time)
-    * Attendance tracking
-    * Communication channels: Internal and External (email, the must-check-regularly channels on slack)
-    * Reporting daily/monthly/quarterly task: where and with whom?
-    * Manual meeting, activities: sharing session, company trip?
-    * Rewards and Reminders: when and how to rewards/reminds
-    * Promote: how to vote?..v..v
-    * Company time off (the whole company will not in company for working purpose): common vacation (which days in a year)
-    * Overtime-working: maximum days/hours for over-working? Compensation for each hour/day?
-    * Safety and hygiene protection guidelines: how to protect personal belongings in company, how to keep clean and neat in absence of cleaners?
-    * Insurance: how many type of insurance? Who will receive? Contact with whom to get insurance?
-    * Medical check: company conduct medical check at the office (if any)
+    - You're welcome to bring your own machine. If you don't have a machine, we will provide you with a non-Mac machine during your first 2 months with us. After the first 2-month period has ended, you will be provided with a Macbook Pro. Be advised that machines provided to you are under the company's ownership and it is your responsibility to keep them safe and functional.
+  * Leaving
+    * Please inform us 3 weeks in advance of your leave. All other information about leave can be referenced in the National Law of Labour.
+  * Performance Review
+    - Performance review is conducted at the end of each quarter. The format of performance review may change over time to increase accuracy. However, the purpose of the performance review will still remain as a method to measure your performance, to give you advices on how to increase your contribution, and to inform future changes of your role and compensation based on your performance.
+  + Communication channels: 
+    * We mostly use Slack and emails for remote communication. However, the preferred method of communication may vary depending on your client and teams and may even change over time. Ask your team members for more details on this.
+  
     
   
 
